@@ -1,0 +1,101 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 4:27:16 May 19, 2014 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:03:46 May 17, 2016.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+body{background-color:#FFFFFF; padding:0; margin:0}
+
+.usial {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #494949;
+}
+a.usial {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #494949;
+	text-decoration: underline;
+}
+a.usial:hover {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #494949;
+	text-decoration: none;
+}
+.usialBold {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #494949;
+	font-weight: bold;
+}
+a.usialBold {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #494949;
+	text-decoration: none;
+	font-weight: bold;
+}
+a.usialBold:hover {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #494949;
+	text-decoration: underline;
+	font-weight: bold;
+}
+.CR {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: AAAAAA;
+}
+.HASSC {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #494949;
+}
+a.HASSC {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #494949;
+	text-decoration: underline;
+}
+a.HASSC:hover {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #494949;
+	text-decoration: none;
+}.fff {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #44AEB6;
+}
+.mailto {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #494949;
+}
+a.mailto {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #494949;
+	text-decoration: none;
+}
+a.mailto:hover {
+	font-family: Tahoma;
+	font-size: 10px;
+	color: #494949;
+	text-decoration: underline;
+}.form {
+	font-family: Tahoma;
+	font-size: 10px;
+	font-weight: bold;
+	color: 333333;
+}
+.intext{font-family:tahoma, arial, times; font-size:11px; color:#595959; padding-left:4px}
